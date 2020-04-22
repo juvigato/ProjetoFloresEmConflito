@@ -10,6 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var flor: String = "Rosa"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
