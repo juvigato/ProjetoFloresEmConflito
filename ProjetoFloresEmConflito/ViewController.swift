@@ -9,15 +9,13 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
-    var flor: String = "Margarida"
 
     override func viewDidLoad() {
         super.viewDidLoad()
         
     }
     
-    func criarFlor(nomeFlor: String, cor: String, tamanho: Double) {
+    func criarFlor(nomeFlor: String) {
     
     }
 }
