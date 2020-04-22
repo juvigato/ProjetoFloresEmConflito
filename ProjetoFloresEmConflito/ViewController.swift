@@ -12,14 +12,12 @@ class ViewController: UIViewController {
     
     var flor: String = "Margarida"
 
-    var flor: String = "Rosa"
-
     override func viewDidLoad() {
         super.viewDidLoad()
         
     }
     
-    func criarFlor(nomeFlor: String) {
+    func criarFlor(nomeFlor: String, tamanho: Double) {
         
     }
 }
