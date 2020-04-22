@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var flor: String = "Margarida"
 
     var flor: String = "Rosa"
 
@@ -21,4 +23,3 @@ class ViewController: UIViewController {
         
     }
 }
-
