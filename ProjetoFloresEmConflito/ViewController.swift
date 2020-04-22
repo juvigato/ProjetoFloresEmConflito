@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         
     }
     
-    func criarFlor(nomeFlor: String, cor: String) {
-        
+    func criarFlor(nomeFlor: String, cor: String, tamanho: Double) {
+    
     }
 }
